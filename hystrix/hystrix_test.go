@@ -4,9 +4,8 @@ import (
 	"context"
 	"fmt"
 	"testing"
-	"time"
-
 	"testing/quick"
+	"time"
 
 	. "github.com/smartystreets/goconvey/convey"
 )
